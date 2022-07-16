@@ -1,6 +1,5 @@
 # Custom View com stack
-Pequena interface para entender o uso de criacao de views customizadas e stack view
-
+Pequena interface para entender o uso de criação de views customizadas e stack view
 
 ## Feature
 - Usei conceito de herança para construir views customizadas
